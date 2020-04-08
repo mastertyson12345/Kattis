@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Cold-puterScience {
     public static void main(String[] args) {
         // Defines the numONegs and makes a getter for entered text.
         int numONegs = 0;
